@@ -1,4 +1,10 @@
-# Code Appendix
+# Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization (AAAI 2025)
+
+This repository contains the official implementation of 
+[<U>Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization</U>](https://arxiv.org/pdf/2403.14155).
+
+[![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://ldynx.github.io/harmony-zero-t2i//)
+[![arXiv 2312.02503](https://img.shields.io/badge/arXiv-2312.02503-red)](https://arxiv.org/abs/2403.14155)
 
 ### Run BLIP-Diffusion
 1. Run the following command: <br/>
